@@ -1,1 +1,1 @@
-web: voila --port=$PORT --no-browser notebooks/bqplot.ipynb --template=material
+web: voila --port=$PORT --no-browser notebooks/var_imp.ipynb --template=material
